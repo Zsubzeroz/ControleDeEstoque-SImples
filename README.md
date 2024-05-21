@@ -9,7 +9,9 @@ Para ajudá-lo a controlar seu estoque de forma simples.
 - <a href="#tecnologias-utilizadas">Tecnologias Utilizadas<a>
 
 ## Funcionalidades do Projeto
-- [x] Calculos simples
+- [x] Registro de Itens
+- [x] Controle de Itens
+- [x] Organizar Estoque
 
 ## Layout
 - CSS
