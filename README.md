@@ -1,6 +1,6 @@
-# Projeto: Calculadora Simples
+# Projeto: Controlador de estoque
 ![LabelCalculadora](/assets/cadastrodeproduto.png)
-Uma simples calculadora para ajuda-lo a realizar contas do seu dia a dia.
+Para ajudá-lo a controlar seu estoque de forma simples.
 
 ## índice
 - <a href="#funcionalidades-do-projeto">Funcionalidades do Projeto</a>
